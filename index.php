@@ -1,15 +1,12 @@
-<?php include "include/header.php"?>
 <?php include "include/db.php"?>
-<?php include "include/cards.php"?>
-
-
+<?php include "include/header.php"?>
 <?php include "include/navigation.php"?>
 
 <div class="container">
     <div class="row">
         <div class="col-md-24">
             <div>
-                <h1>Hello here are some photo of exams that the other student allready have share. Please <a href="#">click here</a> for sharing an other photo of any exams.</h1>
+                <h1>Hello here are some photo of exams that the other student allready have share. Please <a href="add_photo.php">click here</a> for sharing an other photo of any exams.</h1>
             </div>
             <hr>
             <!--            Make a button for adding photo-->
