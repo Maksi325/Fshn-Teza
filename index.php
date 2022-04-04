@@ -11,6 +11,7 @@
             <hr>
             <!--            Make a button for adding photo-->
             <hr>
+            
             <?php
                 $QuerryDeget = "SELECT * from deget";
                 $degetResult=mysqli_query($connection , $QuerryDeget);
@@ -35,8 +36,7 @@
 
                 ?>
 
-
-                <div class="col-lg-3 col-md-15">
+                <div class="col-lg-3 col-md-15" style="height: 167px;">
                     <div class="panel panel-primary">
                         <div class="panel-heading">
                             <div class="row">
@@ -57,13 +57,8 @@
                 </div>
                 <?php   }  ?>
             </div>
-
             <?php   }  ?>
-
-
-
         </div>
-
     </div>
 </div>
 

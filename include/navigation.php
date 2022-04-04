@@ -10,9 +10,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 
-                <a  href="index.php">
                     <li> <img style="width: 80px" src="image/fshn-logo.png" alt=""> </li>
-                </a>
             </div>
             
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -20,7 +18,7 @@
                 <ul class="nav navbar-nav">
 
                     <li><a href='index.php'> Teza </a> </li>";
-                    <li ><a href='#'> Detyra Kursi </a> </li>
+                    <li ><a href='detyra_kursi.php'> Detyra Kursi </a> </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
